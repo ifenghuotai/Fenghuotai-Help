@@ -1,3 +1,10 @@
-# My Awesome API
+# 烽火台使用说明
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+> 烽火台使用入门 
+>
+> 功能使用方法说明
+>
+> 持续更新
+
+
+
