@@ -32,8 +32,6 @@
 
 备注：上边标记位置信息如下：
 
-* 登录授权的发起页域名:       brands.parllay.cn
-
 * 授权事件接收URL:    [http://wxapi.parllay.cn/wechatcallback/event](http://wxapi.parllay.cn/wechatcallback/event)
 
 * 消息与事件接收URL:  [http://wxapi.parllay.cn/wechatcallback/$APPID$/cgi](http://wxapi.parllay.cn/wechatcallback/$APPID$/cgi)
