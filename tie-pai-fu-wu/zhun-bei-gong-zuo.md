@@ -36,7 +36,7 @@
 
 * 消息与事件接收URL:  [http://wxapi.parllay.cn/wechatcallback/$APPID$/cgi](http://wxapi.parllay.cn/wechatcallback/$APPID$/cgi)
 
-* 公众号开发域名:  brands.parllay.cn;api.parllay.cn
+* 公众号开发域名:  api.parllay.cn
 
 * 白名单IP地址：114.215.183.189,112.124.111.158,112.124.32.185,114.215.178.107,118.31.104.140,47.97.244.51
 
