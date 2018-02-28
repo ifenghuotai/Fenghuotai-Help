@@ -36,7 +36,7 @@
 
 * 授权事件接收URL:    [http://wxapi.parllay.cn/wechatcallback/event/{微信开放平台中的AppID}](http://wxapi.parllay.cn/wechatcallback/event)
 
-* 消息与事件接收URL:  [http://wxapi.parllay.cn/wechatcallback/$APPID$/cgi](http://wxapi.parllay.cn/wechatcallback/$APPID$/cgi)
+* 消息与事件接收URL:  [http://wxapi.parllay.cn/wechatcallback/$APPID$/cgi](http://wxapi.parllay.cn/wechatcallback/$APPID$/cgi)[/{微信开放平台中的AppID}](http://wxapi.parllay.cn/wechatcallback/event)
 
 * 公众号开发域名:  客户自己授权的域名;api.parllay.cn       同时请记得点击下方位置的“下载校验文件”，之后将文件直接发送给烽火台。
 
