@@ -34,7 +34,7 @@
 
 备注：上边标记位置信息如下：
 
-* 授权事件接收URL:    [http://wxapi.parllay.cn/wechatcallback/event/{微信开放平台中的AppID}  ](http://wxapi.parllay.cn/wechatcallback/event)
+* 授权事件接收URL:    [http://wxapi.parllay.cn/wechatcallback/event/{微信开放平台中的AppID}](http://wxapi.parllay.cn/wechatcallback/event)
 
 * 消息与事件接收URL:  [http://wxapi.parllay.cn/wechatcallback/$APPID$/cgi](http://wxapi.parllay.cn/wechatcallback/$APPID$/cgi)
 
