@@ -1,7 +1,9 @@
 # 用户构成
 
-用户构成页面是根据用户的基本信息进行的多维度数据分析。
+用户构成页面是根据用户的基本信息进行的多维度数据分析。  
+
 {% video %}http://cdn.parllay.cn/lugga0nE3U7D4Vi2RtyxAMWRKFTd{% endvideo %}
+
 ## 具体介绍如下：
 
 ### 一、受众构成
