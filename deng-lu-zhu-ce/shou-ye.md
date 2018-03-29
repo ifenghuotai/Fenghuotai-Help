@@ -1,5 +1,6 @@
 # 注册账号
-
+注册流程视频演示
+{% video %}http://cdn.parllay.cn/lmzdNp1Oh-deDkg1QBbVx42GnoqD{% endvideo %}
 ## 具体操作步骤：
 
 ### 一、打开网站
