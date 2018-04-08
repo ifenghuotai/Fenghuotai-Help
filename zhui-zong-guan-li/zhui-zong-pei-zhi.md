@@ -10,7 +10,7 @@
 
 **2、设置将要追踪页面的基本信息**
 
-跟域名：生成的追踪代码将要放置的文章对应的域名；仅输入[http://或www后边的域名即可。](http://或www后边的域名即可。)
+根域名：生成的追踪代码将要放置的文章对应的域名；仅输入[http://或www后边的域名即可。](http://或www后边的域名即可。)
 
 例如：\(1\)[http://www.parllay.cn,仅输入parllay.cn](http://www.parllay.cn,仅输入parllay.cn);    \(2\)[http://www.api.parllay.cn,仅输入api.parllay.cn](http://www.api.parllay.cn,仅输入api.parllay.cn);
 
