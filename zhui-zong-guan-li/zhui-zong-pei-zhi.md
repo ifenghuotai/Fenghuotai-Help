@@ -10,9 +10,9 @@
 
 **2、设置将要追踪页面的基本信息**
 
-跟域名：生成的追踪代码将要放置的文章对应的域名；仅输入http://或www后边的域名即可。
+跟域名：生成的追踪代码将要放置的文章对应的域名；仅输入[http://或www后边的域名即可。](http://或www后边的域名即可。)
 
-例如：\(1\)http://www.parllay.cn,仅输入parllay.cn;    \(2\)http://www.api.parllay.cn,仅输入api.parllay.cn;
+例如：\(1\)[http://www.parllay.cn,仅输入parllay.cn](http://www.parllay.cn,仅输入parllay.cn);    \(2\)[http://www.api.parllay.cn,仅输入api.parllay.cn](http://www.api.parllay.cn,仅输入api.parllay.cn);
 
 追踪ID：自定义填写，主要用于数据查询时作为筛选条件使用；
 
@@ -24,7 +24,9 @@
 
 默认追踪事件：PV、分享朋友圈、分享微信好友、分享qq好友；
 
-如需查看追踪事件下的粉丝属性，请在下方页面自定义设置。
+如需查看追踪事件下的粉丝属性，请在下方页面自定义设置。如不需要此功能，直接空白进行保存即可。
+
+例如：查看某个页面中按钮点击时间集中在几点，属性标识填写click time；属性名称填写为点击时间。之后需要把click time配置在追踪代码内部。数据查询直接使用“点击时间”在“高级分析—网页事件”查询。
 
 ![](/assets/1516622414%281%29.png)
 
