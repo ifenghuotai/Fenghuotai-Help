@@ -10,7 +10,9 @@
 
 **2、设置将要追踪页面的基本信息**
 
-跟域名：生成的追踪代码将要放置的文章对应的域名；仅输入http：
+跟域名：生成的追踪代码将要放置的文章对应的域名；仅输入http://或www后边的域名即可。
+
+例如：http://www.parllay.cn,仅输入parllay.cn;   http://www.api.parllay.cn,仅输入api.parllay.cn;
 
 追踪ID：自定义填写，主要用于数据查询时作为筛选条件使用；
 
