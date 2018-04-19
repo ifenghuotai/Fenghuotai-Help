@@ -26,6 +26,14 @@
 * [微信事件](gao-ji-fen-xi/wei-xin-shi-jian.md)
 * [网页事件](gao-ji-fen-xi/wang-ye-shi-jian.md)
 
+## 媒体推广
+
+* [媒体列表](mei-ti-tui-guang/mei-ti-lie-biao.md)
+* [推广报表](mei-ti-tui-guang/tui-guang-bao-biao.md)
+* [推广管理](mei-ti-tui-guang/tui-guang-guan-li.md)
+* 媒体管理
+* 推广数据
+
 ## 场景应用
 
 * [规则首页](chang-jing-ying-yong/gui-ze-shou-ye.md)
@@ -51,6 +59,7 @@
 
 ## 追踪管理
 
+* 推广报表
 * [短链报表](zhui-zong-guan-li/duan-lian-bao-biao.md)
 * [短链管理](zhui-zong-guan-li/duan-lian-guan-li.md)
 * [追踪配置](zhui-zong-guan-li/zhui-zong-pei-zhi.md)
