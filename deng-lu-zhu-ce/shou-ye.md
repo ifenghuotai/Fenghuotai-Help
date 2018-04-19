@@ -7,7 +7,7 @@
 
 ### 一、打开网站
 
-打开浏览器，输入烽火台网址：[http://brands.parllay.cn](http://brands.parllay.cn)
+打开浏览器，输入烽火台网址：[http://app.ifenghuotai.cn](http://app.ifenghuotai.cn)
 
 ### 二、注册
 
