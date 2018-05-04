@@ -26,14 +26,6 @@
 * [微信事件](gao-ji-fen-xi/wei-xin-shi-jian.md)
 * [网页事件](gao-ji-fen-xi/wang-ye-shi-jian.md)
 
-## 媒体推广
-
-* [媒体列表](mei-ti-tui-guang/mei-ti-lie-biao.md)
-* [推广报表](mei-ti-tui-guang/tui-guang-bao-biao.md)
-* [推广管理](mei-ti-tui-guang/tui-guang-guan-li.md)
-* [媒体管理](mei-ti-tui-guang/mei-ti-guan-li.md)
-* [推广数据](mei-ti-tui-guang/tui-guang-shu-ju.md)
-
 ## 场景应用
 
 * [规则首页](chang-jing-ying-yong/gui-ze-shou-ye.md)
@@ -73,6 +65,14 @@
 
 * [基础菜单](cai-dan-guan-li/ji-chu-cai-dan.md)
 * [个性化菜单](cai-dan-guan-li/ge-xing-hua-cai-dan.md)
+
+## 媒体推广
+
+* [媒体列表](mei-ti-tui-guang/mei-ti-lie-biao.md)
+* [推广报表](mei-ti-tui-guang/tui-guang-bao-biao.md)
+* [推广管理](mei-ti-tui-guang/tui-guang-guan-li.md)
+* [媒体管理](mei-ti-tui-guang/mei-ti-guan-li.md)
+* [推广数据](mei-ti-tui-guang/tui-guang-shu-ju.md)
 
 ## 企业功能
 
