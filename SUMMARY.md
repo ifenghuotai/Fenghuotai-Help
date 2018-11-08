@@ -77,8 +77,11 @@
 
 ## 企业功能
 
+* [企业信息](qi-ye-gong-neng/qi-ye-xin-xi.md)
 * [团队协作](qi-ye-gong-neng/tuan-dui-xie-zuo.md)
 * [用户管理](qi-ye-gong-neng/yong-hu-guan-li.md)
+* [公众号设置](qi-ye-gong-neng/gong-zhong-hao-she-zhi.md)
+* 操作记录
 
 ## 贴牌服务
 
