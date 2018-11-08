@@ -67,6 +67,13 @@
 * [基础菜单](cai-dan-guan-li/ji-chu-cai-dan.md)
 * [个性化菜单](cai-dan-guan-li/ge-xing-hua-cai-dan.md)
 
+## 平台管理
+
+* 平台管理
+* 企业管理
+* 企业分析
+* 企业类型
+
 ## 媒体推广
 
 * [媒体列表](mei-ti-tui-guang/mei-ti-lie-biao.md)
