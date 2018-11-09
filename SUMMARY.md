@@ -67,13 +67,6 @@
 * [基础菜单](cai-dan-guan-li/ji-chu-cai-dan.md)
 * [个性化菜单](cai-dan-guan-li/ge-xing-hua-cai-dan.md)
 
-## 平台管理
-
-* [企业管理](ping-tai-guan-li/qi-ye-guan-li.md)
-* [企业分析](ping-tai-guan-li/qi-ye-fen-xi.md)
-* [平台管理](ping-tai-guan-li/ping-tai-guan-li.md)
-* [企业类型](ping-tai-guan-li/qi-ye-lei-xing.md)
-
 ## 媒体推广
 
 * [媒体列表](mei-ti-tui-guang/mei-ti-lie-biao.md)
