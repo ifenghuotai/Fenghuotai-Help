@@ -20,6 +20,7 @@
 * [用户构成](yi-biao-pan/yong-hu-gou-cheng.md)
 * [用户行为](yi-biao-pan/yong-hu-xing-wei.md)
 * [内容分析](yi-biao-pan/nei-rong-fen-xi.md)
+* [小程序分析](yi-biao-pan/xiao-cheng-xu-fen-xi.md)
 
 ## 高级分析
 
@@ -56,6 +57,7 @@
 * [短链报表](zhui-zong-guan-li/duan-lian-bao-biao.md)
 * [短链管理](zhui-zong-guan-li/duan-lian-guan-li.md)
 * [追踪配置](zhui-zong-guan-li/zhui-zong-pei-zhi.md)
+  * [小程序追踪](zhui-zong-guan-li/zhui-zong-pei-zhi/xiao-cheng-xu-zhui-zong.md)
 
 ## 扫码管理
 
