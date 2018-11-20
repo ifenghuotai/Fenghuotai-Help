@@ -20,7 +20,7 @@
 * [用户构成](yi-biao-pan/yong-hu-gou-cheng.md)
 * [用户行为](yi-biao-pan/yong-hu-xing-wei.md)
 * [内容分析](yi-biao-pan/nei-rong-fen-xi.md)
-* [小程序分析](yi-biao-pan/xiao-cheng-xu-fen-xi.md)
+* [小程序](yi-biao-pan/xiao-cheng-xu-fen-xi.md)
 
 ## 高级分析
 
