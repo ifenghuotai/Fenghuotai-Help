@@ -27,8 +27,6 @@
 * [微信事件](gao-ji-fen-xi/wei-xin-shi-jian.md)
 * [网页事件](gao-ji-fen-xi/wang-ye-shi-jian.md)
 * [客群分析](gao-ji-fen-xi/ke-qun-fen-xi.md)
-* [漏斗分析](gao-ji-fen-xi/lou-dou-fen-xi.md)
-* 留存分析
 
 ## 场景应用
 
