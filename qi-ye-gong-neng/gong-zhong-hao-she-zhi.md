@@ -32,7 +32,7 @@ b.删除公众号：将此公众号删除。
 
 ![](/assets/jrhubspot.png)
 
-步骤：1.点击接入进入配置填写页面，接入名称可自主定义。
+步骤一：点击接入进入配置填写页面，接入名称可自主定义。
 
 ![](/assets/pz.png)
 
@@ -42,47 +42,43 @@ b.删除公众号：将此公众号删除。
 
 ![](/assets/createApp.png)
 
-步骤二：点击Edit获取信息，并勾选三项授权
+2.点击Edit获取信息，并勾选三项授权
 
 ![](/assets/hqapp.png)
 
 ```
-步骤二：点击Edit获取信息，并勾选三项授权
+3.点击Edit获取信息，并勾选三项授权
 ```
-
-
 
 ![](/assets/hqapp.png)
 
 ![](/assets/gxsq.png)
 
-步骤三：返回创建application页面，点击Get HAPIkey获取信息
+4.返回创建application页面，点击Get HAPIkey获取信息
 
 ![](/assets/haip.png)
 
-步骤四：点击integrations，找到API KEY
+5.点击integrations，找到API KEY
 
 #### ![](/assets/qh.png)
 
 ![](/assets/apikeys.png)
 
-步骤五：配置完毕，可进入hubspot列表查看
+6.配置完毕，可进入hubspot列表查看
 
 #### ![](/assets/hubspotlb.png)
 
-#### 
+#### 五：接入小程序 \(目前手动填写配置信息，下一版更新为扫码即可\)
 
-#### 
+![](/assets/jrxcx.png)
 
-#### 
+点击接入填上相应的配置信息即可，改版后为扫码方式。
 
-#### 
 
-#### 四：创建测试号
 
-#### 四：创建测试号
+#### 六：创建测试号\(配置信息微信后台都可获取\)
 
-![](/assets/ceshihao.png)
+![](/assets/createtest.png)
 
 填入申请的测试号信息保存后即可使用。
 
