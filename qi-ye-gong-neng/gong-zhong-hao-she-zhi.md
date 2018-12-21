@@ -8,13 +8,13 @@
 
 #### 一：基本信息
 
-![](/assets/jibenxinxi2.png)
+![](/assets/t.png)
 
 只可查看公众号基本信息：头像、名称、账号类型，不可编辑。
 
 #### 二：开发者配置
 
-![](/assets/kaifazhepeizhi.png)
+![](/assets/kfzpz.png)
 
 这些配置是烽火台一开始给企业创建好的，AppSecret填写后可以启用更多高级功能。
 
@@ -24,9 +24,61 @@ b.删除公众号：将此公众号删除。
 
 #### 三：高级设置
 
-![](/assets/gaojishezhi.png)
+![](/assets/gjsz.png)
 
 勾选想要的功能后保存信息即可，具体功能描述请自行去模块查看。
+
+#### 四：接入hubspot\(首先需要有hubspot开发者权限\)
+
+![](/assets/jrhubspot.png)
+
+步骤：1.点击接入进入配置填写页面，接入名称可自主定义。
+
+
+
+![](/assets/pz.png)
+
+
+
+步骤二：登陆hubspot账号获取相应配置信息填入输入框中    注：若没有相应页面权限请联系您账号管理员调整权限
+
+1.创建application
+
+![](/assets/createApp.png)   
+
+
+
+          步骤二：点击Edit获取信息，并勾选三项授权
+
+![](/assets/hqapp.png)
+
+![](/assets/gxsq.png)
+
+步骤三：返回创建application页面，点击Get HAPIkey获取信息
+
+![](/assets/haip.png)
+
+步骤四：点击integrations，找到API KEY
+
+#### ![](/assets/qh.png)      
+
+
+
+![](/assets/apikeys.png)
+
+步骤五：配置完毕，可进入hubspot列表查看
+
+#### ![](/assets/hubspotlb.png)
+
+#### 
+
+#### 
+
+#### 
+
+#### 
+
+#### 四：创建测试号
 
 #### 四：创建测试号
 
