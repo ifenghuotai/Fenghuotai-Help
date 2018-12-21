@@ -34,21 +34,23 @@ b.删除公众号：将此公众号删除。
 
 步骤：1.点击接入进入配置填写页面，接入名称可自主定义。
 
-
-
 ![](/assets/pz.png)
-
-
 
 步骤二：登陆hubspot账号获取相应配置信息填入输入框中    注：若没有相应页面权限请联系您账号管理员调整权限
 
 1.创建application
 
-![](/assets/createApp.png)   
+![](/assets/createApp.png)
+
+步骤二：点击Edit获取信息，并勾选三项授权
 
 
 
-          步骤二：点击Edit获取信息，并勾选三项授权
+![](/assets/hqapp.png)
+
+```
+      步骤二：点击Edit获取信息，并勾选三项授权
+```
 
 ![](/assets/hqapp.png)
 
@@ -60,9 +62,7 @@ b.删除公众号：将此公众号删除。
 
 步骤四：点击integrations，找到API KEY
 
-#### ![](/assets/qh.png)      
-
-
+#### ![](/assets/qh.png)
 
 ![](/assets/apikeys.png)
 
