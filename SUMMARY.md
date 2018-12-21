@@ -32,7 +32,8 @@
 
 * [规则首页](chang-jing-ying-yong/gui-ze-shou-ye.md)
 * [默认设置](chang-jing-ying-yong/mo-ren-she-zhi.md)
-* [工作流](chang-jing-ying-yong/gong-zuo-liu.md)
+* [工作流—微信事件](chang-jing-ying-yong/gong-zuo-liu.md)
+  * [工作流—追踪事件](chang-jing-ying-yong/gong-zuo-liu/gong-zuo-liu-2014-zhui-zong-shi-jian.md)
 
 ## 素材管理
 
