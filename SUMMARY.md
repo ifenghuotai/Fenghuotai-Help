@@ -17,11 +17,10 @@
 ## 仪表盘
 
 * [总览](yi-biao-pan/zong-lan-11.md)
-* [用户行为](yi-biao-pan/yong-hu-xing-wei.md)
 * [用户构成](yi-biao-pan/yong-hu-gou-cheng-1.md)
-* [内容分析](yi-biao-pan/nei-rong-fen-xi.md)
+* [用户行为](yi-biao-pan/yong-hu-xing-wei-1.md)
+* [内容分析](yi-biao-pan/nei-rong-fen-xi-1.md)
 * [小程序](yi-biao-pan/xiao-cheng-xu-fen-xi.md)
-* [用户行为1](yi-biao-pan/yong-hu-xing-wei-1.md)
 
 ## 高级分析
 
