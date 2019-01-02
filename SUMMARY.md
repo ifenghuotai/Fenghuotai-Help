@@ -16,7 +16,7 @@
 
 ## 仪表盘
 
-* [总览](yi-biao-pan/zong-lan.md)
+* [总览](yi-biao-pan/zong-lan-11.md)
 * [用户构成](yi-biao-pan/yong-hu-gou-cheng.md)
 * [用户行为](yi-biao-pan/yong-hu-xing-wei.md)
 * [内容分析](yi-biao-pan/nei-rong-fen-xi.md)
