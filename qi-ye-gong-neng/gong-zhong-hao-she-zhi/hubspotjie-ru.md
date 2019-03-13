@@ -4,7 +4,7 @@
 
 目的：查看企业公众号基本信息以及设置高级功能
 
-注意：接入hubspot 首先需要有hubspot开发者权限
+注意：接入hubspot 首先需要有hubspot开发者账号和应用登录账号
 
 ================================================操作说明===============================================
 
@@ -24,7 +24,7 @@
 
 2.在application列表中选择新创建的application，点击Edit获取信息，并勾选三项授权
 
-  复制APPID 、Client ID、Client secret填写在烽火台相应的配置文本框中
+复制APPID 、Client ID、Client secret填写在烽火台相应的配置文本框中
 
 ![](/assets/hqapp.png)
 
@@ -32,7 +32,7 @@
 
 3.返回创建application列表页面，点击Get HAPIkey获取HAPIKEY 、User ID
 
-   复制HAPIKEY 、User ID填写在烽火台相应的配置文本框中
+复制HAPIKEY 、User ID填写在烽火台相应的配置文本框中
 
 ![](/assets/haip.png)
 
