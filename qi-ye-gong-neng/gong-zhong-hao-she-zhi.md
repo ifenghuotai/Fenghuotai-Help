@@ -28,53 +28,13 @@ b.删除公众号：将此公众号删除。
 
 勾选想要的功能后保存信息即可，具体功能描述请自行去模块查看。
 
-#### 四：接入hubspot\(首先需要有hubspot开发者权限\)
-
-![](/assets/jrhubspot.png)
-
-步骤一：点击接入进入配置填写页面，接入名称可自主定义。
-
-![](/assets/pz.png)
-
-步骤二：登陆hubspot账号获取相应配置信息填入输入框中    注：若没有相应页面权限请联系您账号管理员调整权限
-
-1.创建application
-
-![](/assets/createApp.png)
-
-2.点击Edit获取信息，并勾选三项授权
-
-![](/assets/hqapp.png)
-
-```
-3.点击Edit获取信息，并勾选三项授权
-```
-
-![](/assets/hqapp.png)
-
-![](/assets/gxsq.png)
-
-4.返回创建application页面，点击Get HAPIkey获取信息
-
-![](/assets/haip.png)
-
-5.点击integrations，找到API KEY
-
-#### ![](/assets/qh.png)
-
-![](/assets/apikeys.png)
-
-6.配置完毕，可进入hubspot列表查看
-
-#### ![](/assets/hubspotlb.png)
+#### 
 
 #### 五：接入小程序 \(目前手动填写配置信息，下一版更新为扫码即可\)
 
 ![](/assets/jrxcx.png)
 
 点击接入填上相应的配置信息即可，改版后为扫码方式。
-
-
 
 #### 六：创建测试号\(配置信息微信后台都可获取\)
 
