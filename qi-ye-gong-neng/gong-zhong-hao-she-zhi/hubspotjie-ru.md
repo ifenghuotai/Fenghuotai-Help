@@ -14,23 +14,25 @@
 
 注意：接入hubspot 首先需要有hubspot开发者账号和应用登录账号
 
-#### 步骤一：登录烽火台账号，找到企业功能-公众号设置-接入hubspot，点击接入，进入配置填写页面
-
-![](/assets/jrhubspot.png)
-
-配置填写页面如下：接入名称可以自定义，其余6个参数如何获取详见下文
-
-![](/assets/pz.png)
-
-#### 步骤二：登陆hubspot开发者账号获取相应配置信息填入输入框中
+#### 步骤一：创建hubspot app
 
 ##### 注：若没有hubspot相应页面权限请联系您账号管理员调整权限
 
 1.登录开发者账号，选择“Apps”菜单，创建application并保存
 
-![](/assets/createApp.png)
+#### ![](/assets/createhubspot.png)
 
-2.在application列表中选择新创建的application，点击Edit获取信息，并勾选三项授权
+#### 步骤二：登录烽火台账号，接入hubspot
+
+1.找到企业功能-公众号设置-接入hubspot，点击接入，进入配置填写页面
+
+配置填写页面如下：接入名称可以自定义，其余6个参数如何获取详见下文
+
+![](/assets/createhubspotjieru.png)
+
+
+
+2.返回hubspot创建页面，在application列表中选择新创建的application，点击Edit获取信息，并勾选三项授权
 
 复制APPID 、Client ID、Client secret填写在烽火台相应的配置文本框中
 
@@ -58,7 +60,17 @@
 
 #### 步骤四：填写完毕接入成功
 
-配置完毕后，进入烽火台的hubspot列表查看，可进行删除和编辑操作
+1.保存后进入授权页面
+
+![](/assets/savelist.png)
+
+2.点击Grant access 进入接入跳转页面
+
+![](/assets/shouquan.png)![](/assets/jieruyanzheng.png)
+
+
+
+接入完毕进入烽火台的hubspot列表，可进行删除和编辑操作
 
 * 编辑：配置信息填写错误时可进行修改
 
