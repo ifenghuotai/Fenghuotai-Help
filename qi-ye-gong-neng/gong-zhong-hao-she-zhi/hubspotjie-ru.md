@@ -30,6 +30,8 @@
 
 ![](/assets/createhubspotjieru.png)
 
+![](/assets/jieruhubspot.png)
+
 2.返回hubspot创建页面，在application列表中选择新创建的application，点击Edit获取信息，并勾选三项授权
 
 复制APPID 、Client ID、Client secret填写在烽火台相应的配置文本框中
