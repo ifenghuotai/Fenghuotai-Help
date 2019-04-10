@@ -45,7 +45,7 @@
 
 ## 客户管理
 
-* [微信用户列表](ke-hu-guan-li/wei-xin-yong-hu-lie-biao.md)
+* [客户管理](ke-hu-guan-li/ke-hu-guan-li.md)
 * [客户互动明细](ke-hu-guan-li/ke-hu-hu-dong-ming-xi.md)
 * [平台标签管理](ke-hu-guan-li/ping-tai-biao-qian-guan-li.md)
 * [微信标签管理](ke-hu-guan-li/wei-xin-biao-qian-guan-li.md)
