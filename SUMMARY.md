@@ -37,6 +37,7 @@
 * [工作流—微信事件](chang-jing-ying-yong/gong-zuo-liu.md)
   * [工作流—追踪事件](chang-jing-ying-yong/gong-zuo-liu/gong-zuo-liu-2014-zhui-zong-shi-jian.md)
   * [工作流—Hubspot集成](chang-jing-ying-yong/gong-zuo-liu/gong-zuo-liu-2014-hubspot-ji-cheng.md)
+  * [工作流报表](chang-jing-ying-yong/gong-zuo-liu/gong-zuo-liu-bao-biao.md)
 
 ## 素材管理
 
