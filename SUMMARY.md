@@ -89,6 +89,7 @@
 * [用户管理](qi-ye-gong-neng/yong-hu-guan-li.md)
 * [公众号设置](qi-ye-gong-neng/gong-zhong-hao-she-zhi.md)
   * [hubspot接入](qi-ye-gong-neng/gong-zhong-hao-she-zhi/hubspotjie-ru.md)
+  * [小程序接入](qi-ye-gong-neng/gong-zhong-hao-she-zhi/xiao-cheng-xu-jie-ru.md)
 * [操作记录](qi-ye-gong-neng/cao-zuo-ji-lu.md)
 
 ## 贴牌服务
