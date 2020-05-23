@@ -70,6 +70,54 @@ c.删除：删除该小程序追踪
 
 ![](/assets/fzdm.png)
 
+### 高级功能
+
+##### 上报用户unionid：
+
+![](/assets/sbunionid.png)
+
+##### 自定义事件：
+
+![](/assets/fszdysjian.png)
+
+##### 自定义属性：
+
+![](/assets/zdysx.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
