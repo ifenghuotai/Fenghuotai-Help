@@ -36,7 +36,7 @@ b.设置事件属性（自定义属性、默认属性）—保存
 
 ![](/assets/shuixing.png)
 
-自定义属性：若默认属性不满足客户需求，可以追踪自定义属性，支持在小程序事件分析中查出数据
+自定义属性：若默认属性不满足客户需求，可以追踪自定义属性
 
 填写的属性名需与小程序内追踪代码保持一致
 
@@ -62,7 +62,7 @@ c.删除：删除该小程序追踪
 
 #### 2.配置sdk
 
-1.下载sdk并将下载文件解压，将解压后的文件**fht-tracking-miniapp-config.js**和**fhtTracking-miniapp-sdk-src.js**放置在小程序任意目录下\(两文件位置上没有限制，但必须是平级目录\)
+1.下载sdk并将下载文件解压，将解压后的文件**fht-tracking-miniapp-config.js**和**fht-tracking-miniapp-sdk.js**放置在小程序任意目录下\(两文件位置上没有限制，但必须是平级目录\)
 
 2.使用微信开发者工具打开小程序根目录下的**app.js**文件，复制下段代码到**app.js**文件的第一行并保存。
 
@@ -73,16 +73,37 @@ c.删除：删除该小程序追踪
 ### 高级功能
 
 ##### 上报用户unionid：
-
-![](/assets/sbunionid.png)
-
+```js
+wx.login({
+  success(res) {
+    if (res.code) {
+      //发起网络请求
+      sdk.userRegister(res.code)
+    } else {
+      console.log('登录失败！' + res.errMsg)
+    }
+  }
+})
+```
+##### 更新用户信息
+```js
+wx.getUserInfo({
+  success: function (res) {
+    sdk.addUser(res.userInfo)
+  }
+})
+```
 ##### 自定义事件：
 
-![](/assets/fszdysjian.png)
-
-##### 自定义属性：
-
-![](/assets/zdysx.png)
+```js
+sdk.send({
+  event: "mina_event",
+  //具体的事件的值，如订单号，金额等
+  value: {
+    orderNumber: "189731794"
+  }
+})
+```
 
 
 
