@@ -97,7 +97,7 @@ wx.getUserInfo({
 
 ```js
 sdk.send({
-  event: "mina_event",
+  event: "custom_event",
   //具体的事件的值，如订单号，金额等
   value: {
     orderNumber: "189731794"
